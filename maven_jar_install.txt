@@ -1,0 +1,1 @@
+﻿mvn install:install-file -Dfile=D:\tgsit-commons-rsa.jar -DgroupId=tgsit-commons -DartifactId=commons-rsa -Dversion=1.0 -Dpackaging=jar -DgeneratePom=true -DcreateChecksum=true
