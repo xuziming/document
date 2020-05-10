@@ -1,7 +1,8 @@
 # document
-解决Github无法预览的问题
+**解决Github无法预览的问题**
 修改hosts
 
+```
 # GitHub Start 
 140.82.113.3      github.com
 140.82.114.20     gist.github.com
@@ -31,3 +32,5 @@
 199.232.68.133     avatars8.githubusercontent.com
 
 # GitHub End
+```
+
